@@ -1,4 +1,4 @@
-package sort; /**
+package algorithm.sort; /**
  * Created by zhaocl on 2021/10/8 21:58.
  * desc：
  */
@@ -9,6 +9,8 @@ package sort; /**
  * @author: zhaochenliang
  * @create: 2021-10-08 21:58
  **/
+
+import sort.BubbleSort;
 
 import java.util.Arrays;
 
